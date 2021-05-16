@@ -51,7 +51,7 @@ And Now We Are Finally Done, And Now You Can Install Any Linux Distro Available 
     
 Now We Will Install Ubuntu From The Microsoft Store
 
-    ![](5.png)
+   ![](5.png)
     
 After Installing And You Will Get This Window, It Will Prompt You With Username And Password And After That You Are Finally Done  
 
