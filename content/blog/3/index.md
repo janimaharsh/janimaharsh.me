@@ -1,3 +1,9 @@
+
+---
+title: Mechanism behind Cryptocurrencies
+date: "2021-07-18"
+description: In This Blog I'll Describe The Process Behind Cryptocurreny And What Else Goes In It. 
+---
 ## Cryptocurrencies
 
 So cryptocurrency is a form of payment that can be exchanged for goods and services, just like the money which is issued by the government also termed as fiat money. Think of it as you would as poker chips. You will need to exchange real currency, I.e Fiat Money, for the poker chips, I.e cryptocurrency to access the good or service, which here is to play poker.
