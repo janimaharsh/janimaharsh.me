@@ -87,5 +87,7 @@ To Sum Up
 - After hashing the public key you get you wallet address
 
 
+*Concluding the above statments cryptocurrencies are a volatile and very risky investent option and hving a deep understanding about this trend is necessary. In this blog I have breifed you about the basis concepts of block chain and cryptocurrency. Cryptocurrency being voletile, we can see drastic changes in the price of cyrptocurrencies due to it being based on the concept of supply and demand. For example the downfall of bitcoin market value, in the recent past bitcoin has peaked at ~$ 63000 and the at the time of writting this blog one BTC ~ $ 33500. When investing in cryptocurrnecy market research should be done extensively and it should not be blindly follow the crowd.*    
+
 
 
