@@ -1,4 +1,3 @@
-
 ---
 title: Mechanism behind Cryptocurrencies
 date: "2021-07-18"
