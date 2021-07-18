@@ -53,7 +53,7 @@ Elliptic Curve can be generally denoted as :- y² = x³ + ax + b
 
 Some Examples of Elliptic Curves are as follow :-
 
-![Graph](../blog/3/1.png)
+![Graph](1.png)
 
 The Elliptic Curve used by Bitcoin is called “secp256k1” which is denoted as the following equation
 
